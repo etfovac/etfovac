@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My repos are organized in projects [here](https://github.com/etfovac?tab=projects)
+
+
+
+> maintained by [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/etfovac/)
+
+
 <!--
 **etfovac/etfovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
