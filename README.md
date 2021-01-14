@@ -4,7 +4,7 @@ My repos are organized in projects [here](https://github.com/etfovac?tab=project
 
 
 
-> maintained by [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/etfovac/)
+> maintained by [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Nikola Jovanovic](https://www.linkedin.com/in/etfovac/)
 
 
 <!--
