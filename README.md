@@ -2,9 +2,9 @@
 
 My repos are organized in projects [here](https://github.com/etfovac?tab=projects)
   
-🔭 I’m currently working on improving an old code for [HID USB in C#](https://github.com/etfovac/HID_Utility)
+🔭 I’m currently working on improving an old code for [USB HID in C#](https://github.com/etfovac/HID_Utility)
   
-🌱 I’m currently learning Embedded
+🌱 I’m currently learning Embedded and DevOps
 
 >  
 > maintained by [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Nikola Jovanovic](https://www.linkedin.com/in/etfovac/)
