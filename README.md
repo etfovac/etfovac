@@ -5,7 +5,7 @@
 
 In 2020 I started publishing some old and interesting code that I had generated since 2008.
 
-My repos are organized in GitHub projects [here  &#9757;](https://github.com/etfovac?tab=projects)
+My repos are organized in [GitHub projects  &#9757;](https://github.com/etfovac?tab=projects)
 
 I’m currently working on USB HID communication in C# ([Notes](https://github.com/etfovac/hid/wiki/Notes))
 
@@ -14,7 +14,7 @@ I’m currently working on USB HID communication in C# ([Notes](https://github.c
 <br>
 
 ---
-|📫|Info|
+|:information_source:|Info|
 |----|----|
 |![LinkedIn](https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png) | [My LinkedIn](https://www.linkedin.com/in/etfovac/)  
 |<img src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" width=55 hight=55> | [My Acclaim Badges](https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba)
