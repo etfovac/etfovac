@@ -4,7 +4,7 @@ In 2020 I started publishing some old and interesting code that I had generated 
 
 My repos are organized in GitHub projects [here  &#9757;](https://github.com/etfovac?tab=projects)
 
-I’m currently working on improving an old code for [USB HID in C#](https://github.com/etfovac/HID_Utility)
+I’m currently working on USB HID communication in C# ([Notes](https://github.com/etfovac/hid/wiki/Notes))
 
 <br>
 <br>
