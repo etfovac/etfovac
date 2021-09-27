@@ -9,10 +9,7 @@ I’m currently working on USB HID communication in C# ([Notes](https://github.c
 
 <br>
 
-|![LinkedIn](https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png) | [My LinkedIn](https://www.linkedin.com/in/etfovac/)|
-|----|----| 
-|<img src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" width=55 hight=55> | [My Acclaim Badges](https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba)
-|![ResearchGate](https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png) | [My ResearchGate](https://www.researchgate.net/profile/Nikola_Jovanovic9)  
+<a href="https://www.linkedin.com/in/etfovac/"><img src="https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"> <a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" width=55 hight=55> <a href="https://www.researchgate.net/profile/Nikola_Jovanovic9"><img src="https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png">
 
  
 
