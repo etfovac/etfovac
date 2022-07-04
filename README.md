@@ -8,7 +8,7 @@ My repos are organized in [GitHub projects  &#9757;](https://github.com/etfovac?
 
 <br>
 
-<a href="https://www.linkedin.com/in/etfovac/"><img src="https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"> <a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" width=55 hight=55> <a href="https://www.researchgate.net/profile/Nikola_Jovanovic9"><img src="https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png">
+<a href="https://www.linkedin.com/in/etfovac/"><img src="https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"> &emsp; <a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" width=55 hight=55> &emsp; <a href="https://www.researchgate.net/profile/Nikola_Jovanovic9"><img src="https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png">
 
  
 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<a href="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png"><img src="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png" alt="" title="" /></a><small>Source: <a href="https://developerslife.tech/en/">The Developer's Life</a></small>
