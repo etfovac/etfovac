@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Hi there 👋
+<br>
 
-You can use the [editor on GitHub](https://github.com/etfovac/etfovac/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In 2020 I started publishing some old and interesting code that I had generated since 2008.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects)
 
-### Markdown
+<br>
+<a href="https://www.linkedin.com/in/etfovac/"><img src="https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; 
+<a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" width=55 hight=55></a> &emsp; 
+<a href="https://www.researchgate.net/profile/Nikola-Jovanovic-10"><img src="https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png"></a> &emsp; 
+<a href="https://github.com/etfovac"><img src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png"></a> &emsp;
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--
+**etfovac/etfovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<br>
+I'm also a movie buff:  
+<a href="https://www.imdb.com/list/ls042957621/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IMDb_Logo_Square.svg/128px-IMDb_Logo_Square.svg.png" width=35 hight=35></a>  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etfovac/etfovac/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+and I love memes and comics like this one:  
+<a href="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png"><img src="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png" alt="" title="" /></a><small>Source: <a href="https://developerslife.tech/en/">The Developer's Life</a></small>
