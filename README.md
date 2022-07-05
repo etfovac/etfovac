@@ -6,7 +6,7 @@ In 2020 I started publishing some old and interesting code that I had generated 
 My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects)
 
 <br>
-<a href="https://www.linkedin.com/in/etfovac/"><img src="https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; 
+<a href="https://www.linkedin.com/in/etfovac/"><img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; 
 <a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" width=55 hight=55></a> &emsp; 
 <a href="https://www.researchgate.net/profile/Nikola-Jovanovic-10"><img src="https://icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png"></a> &emsp; 
 <a href="https://github.com/etfovac"><img src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png"></a> &emsp;
