@@ -1,7 +1,5 @@
 <br>
 
-In 2020 I started publishing some old and interesting code that I had generated since 2008.
-
 My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects&type=classic)
 
 <br>
