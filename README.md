@@ -1,9 +1,8 @@
-### Hi there 👋
 <br>
 
 In 2020 I started publishing some old and interesting code that I had generated since 2008.
 
-My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects)
+My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects&type=classic)
 
 <br>
 <a href="https://www.linkedin.com/in/etfovac/"><img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; 
@@ -17,7 +16,5 @@ My repos are organized in [GitHub projects](https://github.com/etfovac?tab=proje
 -->
 <br>
 I'm also a movie buff:  
-<a href="https://www.imdb.com/list/ls042957621/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IMDb_Logo_Square.svg/128px-IMDb_Logo_Square.svg.png" width=35 hight=35></a>  
-
-and I love memes and comics like this one:  
+<a href="https://www.imdb.com/list/ls042957621/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/320px-IMDB_Logo_2016.svg.png" width=32 hight=32></a>  and I love memes and comics like this one:  
 <a href="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png"><img src="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png" alt="" title="" /></a><small>Source: <a href="https://developerslife.tech/en/">The Developer's Life</a></small>
