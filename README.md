@@ -1,5 +1,3 @@
-<br>
-
 <!--My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects&type=classic)-->
 
 <br>
