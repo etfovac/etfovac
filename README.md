@@ -14,4 +14,5 @@
 <br>
 I'm also a movie buff:  
 <a href="https://www.imdb.com/list/ls042957621/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/320px-IMDB_Logo_2016.svg.png" width=32 hight=32></a>  and I love memes and comics like this one:  
-<a href="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png"><img src="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png" alt="" title="" /></a><small>Source: <a href="https://developerslife.tech/en/">The Developer's Life</a></small>
+<!--<a href="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png"><img src="https://developerslife.tech/en/uploads/2022/03/tirinhaEN-229.png" alt="" title="" /></a>-->
+<small><a href="https://developerslife.tech/en/">The Developer's Life</a></small>
