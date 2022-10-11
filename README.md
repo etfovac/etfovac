@@ -1,6 +1,6 @@
 <br>
 
-My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects&type=classic)
+<!--My repos are organized in [GitHub projects](https://github.com/etfovac?tab=projects&type=classic)-->
 
 <br>
 <a href="https://www.linkedin.com/in/etfovac/"><img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; 
