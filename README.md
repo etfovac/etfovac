@@ -3,7 +3,7 @@
 <!-- My other profiles: &nbsp;&nbsp;-->
 <!-- <a href="https://www.linkedin.com/in/etfovac/"><img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png"></a> &emsp; -->
 <a href="https://www.youracclaim.com/users/nikola-jovanovic.bf86d5ba"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" width=55 hight=55></a> &emsp; 
-<a href="https://www.researchgate.net/profile/Nikola-Jovanovic-10"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/researchgate_icon_130843.png"></a> &emsp; 
+<a href="https://www.researchgate.net/profile/Nikola-Jovanovic-10"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"></a> &emsp; 
 <!-- <a href="https://github.com/etfovac"><img src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png"></a> &emsp; -->
 <a href="https://www.sololearn.com/profile/4764081"><img src="https://blob.sololearn.com/avatars/sololearn.png" width=37 hight=37></a> &emsp;
 <br>
